@@ -4,11 +4,11 @@ Adopt your own Pocket Morty and register that ownership on the Ethereum blockcha
 ## Setup
 ### Pre-reqs
 - NPM, node, Metamask chrome extension
-- `npm install -g ethereumjs-testrpc`
-- `npm install -g truffle`
-- `testrpc`
-- `truffle compile`
-- `truffle migrate`
-- `npm run dev`
+1. `npm install -g ethereumjs-testrpc`
+1. `npm install -g truffle`
+1. `testrpc`
+1. `truffle compile`
+1. `truffle migrate`
+1. `npm run dev`
 ## Test contracts
 - `truffle test`
