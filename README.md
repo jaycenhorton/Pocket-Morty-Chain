@@ -2,6 +2,8 @@
 Adopt your own Pocket Morty and register that ownership on the Ethereum blockchain!
 
 ## Setup
+### Pre-reqs
+- NPM, node, Metamask chrome extension
 - `npm install -g ethereumjs-testrpc`
 - `npm install -g truffle`
 - `testrpc`
